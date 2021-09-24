@@ -8,4 +8,8 @@
     <string name="check_sms_permission">Check SMS Permission</string>
     <string name="incoming_message">Incoming Message</string>
     <string name="from">from : %s</string>
+    <string name="notification">notif</string>
+    <string name="text_detail_activity">saya di detail activity</string>
+    <string name="description_data">description data</string>
+    <string name="detail">detail</string>
 </resources>
